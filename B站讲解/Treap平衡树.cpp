@@ -1,5 +1,4 @@
 AcWing 253
-```
 #include<iostream>
 #include<cstdio>
 #include<cmath>
@@ -145,4 +144,4 @@ int main(){
     }
     return 0;
 }
-```
+
