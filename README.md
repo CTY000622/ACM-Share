@@ -1,4 +1,8 @@
-# -
+# 
+**朝暮不思的ACM仓库**<br />
+======
+bilibili主页  [https://space.bilibili.com/387473935](https://space.bilibili.com/387473935)<br />
+-------
 **仓库简介** <br />
 ##
 1.分享b站讲述的代码和各个题库（HDU POJ）的标程<br />
