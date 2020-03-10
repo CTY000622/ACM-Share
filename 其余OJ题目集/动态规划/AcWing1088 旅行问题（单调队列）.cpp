@@ -37,7 +37,7 @@ int main(){
     int hh=0;
     int tt=0;
     q[0]=2*n+1;
-    for(i=2*n;i;i--){
+    for(i=2*n;i>=0;i--){
         if(q[hh]>i+n)
             hh++;
         if(i<n){
